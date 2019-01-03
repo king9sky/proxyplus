@@ -10,6 +10,7 @@ class ProxypoolplusPipeline(object):
 
     def __init__(self):
         self.f = None
+        #修改1
 
     def process_item(self, item, spider):
         '''
