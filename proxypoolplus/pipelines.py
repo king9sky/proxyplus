@@ -14,6 +14,7 @@ class ProxypoolplusPipeline(object):
         #dev修改
         #开发新功能到一半
         #开发另一半功能
+        #新增功能
 
     def process_item(self, item, spider):
         '''
