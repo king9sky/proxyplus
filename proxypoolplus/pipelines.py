@@ -12,7 +12,12 @@ class ProxypoolplusPipeline(object):
         self.f = None
         #修改1
         #dev修改
+
         #修改bug
+
+        #开发新功能到一半
+        #开发另一半功能
+
 
     def process_item(self, item, spider):
         '''
